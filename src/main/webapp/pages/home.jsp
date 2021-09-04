@@ -10,5 +10,14 @@
 
 Hello World! ${name}
 
+<form action="addPerson">
+<input type="text" name="id"><br>
+<input type="text" name="firstName"><br>
+<input type="text" name="surname"><br>
+<input type="submit"><br>
+
+
+</form>
+
 </body>
 </html>
